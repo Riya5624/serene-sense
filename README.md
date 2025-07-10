@@ -65,10 +65,10 @@ flutter run
     CodeKanyaas
 
 **Team Members:**
-- [@Priya] - Team Leader
+- [@padhmapriya6100](https://github.com/padhmapriya6100) - Team Leader
 - [@Riya5624](https://github.com/Riya5624) – Flutter Developer
 - [@yashasvim25](https://github.com/yashasvim25) – Flutter Developer
-- [@Charu] - UI Developer
+- [@Charu] - UI Developer<br>
 Feel free to contribute to this project by reporting issues or suggesting features.
 
 ---
