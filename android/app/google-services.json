@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393610415800",
+    "project_id": "serene-sense2426",
+    "storage_bucket": "serene-sense2426.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393610415800:android:7d34b99ff18cd5145bae4d",
+        "android_client_info": {
+          "package_name": "com.example.serene_sense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LCy_jVWjJEBAG8F4HDpziaAADxwH9u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
