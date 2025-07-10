@@ -46,8 +46,8 @@ dependencies:
   sembast: ^3.8.5+1
   path_provider: ^2.1.5
   flutter_animate: ^4.5.2
-
-  # The following adds the Cupertino Icons font to your application.
+  google_sign_in: ^6.2.1
+  firebase_auth: ^5.6.2
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 

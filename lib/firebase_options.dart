@@ -41,48 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDRanC1YA3xD1X3-neVXPm7wePn-wZW17k',
-    appId: '1:1068917620471:web:4ddfbda015104a4583ddf2',
-    messagingSenderId: '1068917620471',
-    projectId: 'serene-sense-chatbot',
-    authDomain: 'serene-sense-chatbot.firebaseapp.com',
-    storageBucket: 'serene-sense-chatbot.firebasestorage.app',
-    measurementId: 'G-WFGJ38FJ3P',
+    apiKey: 'AIzaSyAoaoi1yf-oWCS4NKXT0Jw6AqLnEZSUzws',
+    appId: '1:393610415800:web:49b1add906474b925bae4d',
+    messagingSenderId: '393610415800',
+    projectId: 'serene-sense2426',
+    authDomain: 'serene-sense2426.firebaseapp.com',
+    storageBucket: 'serene-sense2426.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAs3a4FxopGqULEDcwZpbnja15s0RxHj9E',
-    appId: '1:1068917620471:android:5370c6b1d21c351583ddf2',
-    messagingSenderId: '1068917620471',
-    projectId: 'serene-sense-chatbot',
-    storageBucket: 'serene-sense-chatbot.firebasestorage.app',
+    apiKey: 'AIzaSyB_LCy_jVWjJEBAG8F4HDpziaAADxwH9u0',
+    appId: '1:393610415800:android:7d34b99ff18cd5145bae4d',
+    messagingSenderId: '393610415800',
+    projectId: 'serene-sense2426',
+    storageBucket: 'serene-sense2426.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBX6YaDdPWKic_rp93vz3RFk8z7G88CW4w',
-    appId: '1:1068917620471:ios:8e219b893275ebaa83ddf2',
-    messagingSenderId: '1068917620471',
-    projectId: 'serene-sense-chatbot',
-    storageBucket: 'serene-sense-chatbot.firebasestorage.app',
+    apiKey: 'AIzaSyBbYQvIrBC3a2DMc64xa-LJvFUaC-HrXdI',
+    appId: '1:393610415800:ios:adee3c7a1311cc8e5bae4d',
+    messagingSenderId: '393610415800',
+    projectId: 'serene-sense2426',
+    storageBucket: 'serene-sense2426.firebasestorage.app',
     iosBundleId: 'com.example.sereneSense',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBX6YaDdPWKic_rp93vz3RFk8z7G88CW4w',
-    appId: '1:1068917620471:ios:8e219b893275ebaa83ddf2',
-    messagingSenderId: '1068917620471',
-    projectId: 'serene-sense-chatbot',
-    storageBucket: 'serene-sense-chatbot.firebasestorage.app',
+    apiKey: 'AIzaSyBbYQvIrBC3a2DMc64xa-LJvFUaC-HrXdI',
+    appId: '1:393610415800:ios:adee3c7a1311cc8e5bae4d',
+    messagingSenderId: '393610415800',
+    projectId: 'serene-sense2426',
+    storageBucket: 'serene-sense2426.firebasestorage.app',
     iosBundleId: 'com.example.sereneSense',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDRanC1YA3xD1X3-neVXPm7wePn-wZW17k',
-    appId: '1:1068917620471:web:6527c28825dfd85883ddf2',
-    messagingSenderId: '1068917620471',
-    projectId: 'serene-sense-chatbot',
-    authDomain: 'serene-sense-chatbot.firebaseapp.com',
-    storageBucket: 'serene-sense-chatbot.firebasestorage.app',
-    measurementId: 'G-DZRKJ60KZM',
+    apiKey: 'AIzaSyAoaoi1yf-oWCS4NKXT0Jw6AqLnEZSUzws',
+    appId: '1:393610415800:web:d53240413308d2255bae4d',
+    messagingSenderId: '393610415800',
+    projectId: 'serene-sense2426',
+    authDomain: 'serene-sense2426.firebaseapp.com',
+    storageBucket: 'serene-sense2426.firebasestorage.app',
   );
 }
